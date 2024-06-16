@@ -36,4 +36,4 @@ This Unity game is an action-packed ball rolling adventure where players navigat
 - C#
 
 ## $\textsf{\color{purple} Play Now}$
-[https://koolkube.netlify.app/](https://rainbowroll.netlify.app/)
+[https://rainbowroll.netlify.app/](https://rainbowroll.netlify.app/)
