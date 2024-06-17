@@ -1,9 +1,9 @@
- # $\textsf{\color{lime} Rainbow Roll}$ $\text{ }$ $\text{ }$ [Play](https://rainbowroll.netlify.app/)
+ # $\textsf{\color{skyblue} Rainbow Roll}$ $\text{ }$ $\text{ }$ [Play](https://rainbowroll.netlify.app/)
 
-## $\textsf{\color{purple} Description}$
+## $\textsf{\color{lightgreen} Description}$
 This Unity game is an action-packed ball rolling adventure where players navigate a challenging path filled with edges that lead to instant loss upon falling off. Alongside the path, players encounter deadly blocks that must be avoided to survive and progress further. The game offers multiple difficulty levels, each altering environmental factors such as lighting and speed to provide varied gameplay experiences. Additionally, dynamic music changes throughout the game enhance the immersive playing experience.
 
-## $\textsf{\color{purple} Features}$
+## $\textsf{\color{lightgreen} Features}$
 
 ### 1. Gameplay Mechanics
 - **Ball Rolling Adventure:** Players control a ball navigating through a perilous path with edges that, if fallen off, result in immediate failure.
@@ -31,9 +31,9 @@ This Unity game is an action-packed ball rolling adventure where players navigat
 - **High Replay Value:** Promotes replayability through varied difficulty settings, dynamic music, and diverse gameplay challenges that cater to both casual players and enthusiasts.
 
 
-## $\textsf{\color{purple} Languages and Utilities Used}$
+## $\textsf{\color{lightgreen} Languages and Utilities Used}$
 - Unity
 - C#
 
-## $\textsf{\color{purple} Play Now}$
+## $\textsf{\color{lightgreen} Play Now}$
 [https://rainbowroll.netlify.app/](https://rainbowroll.netlify.app/)
